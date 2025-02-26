@@ -9,7 +9,7 @@ public class EnnemyMovement1 : MonoBehaviour
     private float _rotationSpeed;
     private RigidBody2D _rigidbody;
     private PlayerAwarenessController _playerAwarenessController;
-    private Vector2 _target
+    private Vector2 _target;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     private oid Awake(){
         _rigidbody = GetComponent<RigidBody2D>();

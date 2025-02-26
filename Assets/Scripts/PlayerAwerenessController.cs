@@ -8,7 +8,7 @@ public class PlayerAwerenessController : MonoBehaviour
     [SerializeField]
     private float _playerAwarenessDistance { get; private set; }
 
-    private Transform _player
+    private Transform _player;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     private void Awake()
     {
