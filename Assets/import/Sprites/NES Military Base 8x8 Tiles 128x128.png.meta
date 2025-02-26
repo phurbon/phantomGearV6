@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      NES Military Base 8x8 Tiles 128x128_0: -6188773057218819701
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
