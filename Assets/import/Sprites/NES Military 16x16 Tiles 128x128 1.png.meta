@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      NES Military 16x16 Tiles 128x128 1_0: 2114801298756288581
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
