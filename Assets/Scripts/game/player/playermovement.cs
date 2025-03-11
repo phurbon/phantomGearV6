@@ -20,10 +20,10 @@ public class playermovement : MonoBehaviour
 
     private void FixedUpdate()
     {
-        _smoothedMovementInput = Vector2.SmoothDamp(_smoothedMovementInput, _movementInput, ref _movementInputSmoothVelocity,0.1f);
-        _rigidBody.linearVelocity = _smoothedMovementInput * _speed;
+        _smoothedMovementInput = Vector2.SmoothDamp(_smoothedMovementInput, _movementInput, ref _movementInputSmoothVelocity, 0.1f);
+        _rigidBody.velocity = _smoothedMovementInput * _speed;
         SetAnimation();
-        
+
     }
 
     private void OnMove(InputValue inputValue)
@@ -37,6 +37,17 @@ public class playermovement : MonoBehaviour
     {
         bool isMoving = _movementInput != Vector2.zero;
         _animator.SetBool("IsMoving", isMoving);
+
+        if (isMoving)
+    {
+        _animator.SetFloat("MoveX", _movementInput.x);
+        _animator.SetFloat("MoveY", _movementInput.y);
+
+        if (_movementInput.x < 0)
+            GetComponent<SpriteRenderer>().flipX = true;
+        else if (_movementInput.x > 0)
+            GetComponent<SpriteRenderer>().flipX = false;
+    }
 
     }
 }
