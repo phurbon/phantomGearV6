@@ -1,0 +1,3016 @@
+fileFormatVersion: 2
+guid: 7a8fdde8a63999e4ab3105db3805e7f3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3859789448609858595
+    second: flipped snake_0
+  - first:
+      213: -1312051684438871666
+    second: flipped snake_1
+  - first:
+      213: -9036571817793555202
+    second: flipped snake_2
+  - first:
+      213: 3082976580422995224
+    second: flipped snake_3
+  - first:
+      213: 4566902502554959829
+    second: flipped snake_4
+  - first:
+      213: -3244795144907352166
+    second: flipped snake_5
+  - first:
+      213: 3488046090838205204
+    second: flipped snake_6
+  - first:
+      213: -5925615232147172951
+    second: flipped snake_7
+  - first:
+      213: -3789073801036633299
+    second: flipped snake_8
+  - first:
+      213: -4728384198548731130
+    second: flipped snake_9
+  - first:
+      213: -7477266368028395225
+    second: flipped snake_10
+  - first:
+      213: -3101732488436321157
+    second: flipped snake_11
+  - first:
+      213: -6818207362122689582
+    second: flipped snake_12
+  - first:
+      213: -8352902169165099610
+    second: flipped snake_13
+  - first:
+      213: 8916444808104967967
+    second: flipped snake_14
+  - first:
+      213: 3951291750804689223
+    second: flipped snake_15
+  - first:
+      213: -4061397272986286068
+    second: flipped snake_16
+  - first:
+      213: 8049507968744255516
+    second: flipped snake_17
+  - first:
+      213: -3886090342718366511
+    second: flipped snake_18
+  - first:
+      213: -3917415064592585984
+    second: flipped snake_19
+  - first:
+      213: -392002661085003889
+    second: flipped snake_20
+  - first:
+      213: 6583730647525905800
+    second: flipped snake_21
+  - first:
+      213: 5388096712220036459
+    second: flipped snake_22
+  - first:
+      213: 7935014120870685386
+    second: flipped snake_23
+  - first:
+      213: -8465343951728214124
+    second: flipped snake_24
+  - first:
+      213: -4837784037382755373
+    second: flipped snake_25
+  - first:
+      213: 8365840282439217414
+    second: flipped snake_26
+  - first:
+      213: 3036465586785023457
+    second: flipped snake_27
+  - first:
+      213: -609863489750645646
+    second: flipped snake_28
+  - first:
+      213: 4600596845299498722
+    second: flipped snake_29
+  - first:
+      213: -8152863487361589789
+    second: flipped snake_30
+  - first:
+      213: 5786951807732290588
+    second: flipped snake_31
+  - first:
+      213: -1645322281671107391
+    second: flipped snake_32
+  - first:
+      213: 6406681583161874499
+    second: flipped snake_33
+  - first:
+      213: 5943016186178135015
+    second: flipped snake_34
+  - first:
+      213: 7600453545981303467
+    second: flipped snake_35
+  - first:
+      213: -3667513120650419703
+    second: flipped snake_36
+  - first:
+      213: 1519077357942267865
+    second: flipped snake_37
+  - first:
+      213: -4283855371858485756
+    second: flipped snake_38
+  - first:
+      213: 8082444201868247312
+    second: flipped snake_39
+  - first:
+      213: -4967250169917399970
+    second: flipped snake_40
+  - first:
+      213: 1843384277003327891
+    second: flipped snake_41
+  - first:
+      213: -5522130229777751786
+    second: flipped snake_42
+  - first:
+      213: -5276089620092735192
+    second: flipped snake_43
+  - first:
+      213: -7802159708726977687
+    second: flipped snake_44
+  - first:
+      213: 1745952121389318412
+    second: flipped snake_45
+  - first:
+      213: 6269134273530429775
+    second: flipped snake_46
+  - first:
+      213: 8102066427670505048
+    second: flipped snake_47
+  - first:
+      213: 8911073193439631453
+    second: flipped snake_48
+  - first:
+      213: 5662677810795967870
+    second: flipped snake_49
+  - first:
+      213: -8803018416776371832
+    second: flipped snake_50
+  - first:
+      213: 6060380699209543597
+    second: flipped snake_51
+  - first:
+      213: -5594668447639098072
+    second: flipped snake_52
+  - first:
+      213: 7750691568027922381
+    second: flipped snake_53
+  - first:
+      213: -8379524873844359776
+    second: flipped snake_54
+  - first:
+      213: -2879731165085206123
+    second: flipped snake_55
+  - first:
+      213: 2469174308689958196
+    second: flipped snake_56
+  - first:
+      213: 8207392691035995141
+    second: flipped snake_57
+  - first:
+      213: 4876053665547079786
+    second: flipped snake_58
+  - first:
+      213: 8195414729515868018
+    second: flipped snake_59
+  - first:
+      213: -8449444750799184400
+    second: flipped snake_60
+  - first:
+      213: 5280954771723594501
+    second: flipped snake_61
+  - first:
+      213: 6350978802623806638
+    second: flipped snake_62
+  - first:
+      213: -7942656544464620199
+    second: flipped snake_63
+  - first:
+      213: -3606858665907087027
+    second: flipped snake_64
+  - first:
+      213: -3590243906614927582
+    second: flipped snake_65
+  - first:
+      213: 4943681111192494476
+    second: flipped snake_66
+  - first:
+      213: 9146556101181756592
+    second: flipped snake_67
+  - first:
+      213: 7999376560943291794
+    second: flipped snake_68
+  - first:
+      213: -4083725053290192539
+    second: flipped snake_69
+  - first:
+      213: -1341327777696494323
+    second: flipped snake_70
+  - first:
+      213: 869744061321932027
+    second: flipped snake_71
+  - first:
+      213: -3700032618630994607
+    second: flipped snake_72
+  - first:
+      213: -7012856967087077817
+    second: flipped snake_73
+  - first:
+      213: -3185502192085417936
+    second: flipped snake_74
+  - first:
+      213: 4182943596206649897
+    second: flipped snake_75
+  - first:
+      213: -1821932960191392526
+    second: flipped snake_76
+  - first:
+      213: 4464499099388238894
+    second: flipped snake_77
+  - first:
+      213: 2089833361886814944
+    second: flipped snake_78
+  - first:
+      213: -5084785874474124869
+    second: flipped snake_79
+  - first:
+      213: 6001681849535398443
+    second: flipped snake_80
+  - first:
+      213: -3772702692320374179
+    second: flipped snake_81
+  - first:
+      213: 5162171350157936922
+    second: flipped snake_82
+  - first:
+      213: 30164654609120653
+    second: flipped snake_83
+  - first:
+      213: 3518367100275173297
+    second: flipped snake_84
+  - first:
+      213: -1848293096035894369
+    second: flipped snake_85
+  - first:
+      213: 5606601043863206897
+    second: flipped snake_86
+  - first:
+      213: -4437656755314257334
+    second: flipped snake_87
+  - first:
+      213: -6545049777678490058
+    second: flipped snake_88
+  - first:
+      213: -5273968769086931031
+    second: flipped snake_89
+  - first:
+      213: 1581573282080889588
+    second: flipped snake_90
+  - first:
+      213: -2439175306126033324
+    second: flipped snake_91
+  - first:
+      213: 963671300484530283
+    second: flipped snake_92
+  - first:
+      213: -8545283760304874971
+    second: flipped snake_93
+  - first:
+      213: 7621470745566369970
+    second: flipped snake_94
+  - first:
+      213: -1184013579397005759
+    second: flipped snake_95
+  - first:
+      213: -7136304736720746381
+    second: flipped snake_96
+  - first:
+      213: 1143171653336993914
+    second: flipped snake_97
+  - first:
+      213: 3095077373652919890
+    second: flipped snake_98
+  - first:
+      213: -6008484169007563592
+    second: flipped snake_99
+  - first:
+      213: 7604830844468685356
+    second: flipped snake_100
+  - first:
+      213: 4577079622298512091
+    second: flipped snake_101
+  - first:
+      213: 6826883904576292999
+    second: flipped snake_102
+  - first:
+      213: 5086292739540980
+    second: flipped snake_103
+  - first:
+      213: 3604584661393269571
+    second: flipped snake_104
+  - first:
+      213: -6005325591072310893
+    second: flipped snake_105
+  - first:
+      213: 9136681021746021147
+    second: flipped snake_106
+  - first:
+      213: 2604126449532876615
+    second: flipped snake_107
+  - first:
+      213: 1167548112856769444
+    second: flipped snake_108
+  - first:
+      213: 5631936715094990089
+    second: flipped snake_109
+  - first:
+      213: 1852403133266323898
+    second: flipped snake_110
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: flipped snake_0
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 446
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddbfecf42f54f6ac0800000000000000
+      internalID: -3859789448609858595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_1
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 445
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e81711ec1f7aacde0800000000000000
+      internalID: -1312051684438871666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_2
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 445
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef4fb1d3fc5a79280800000000000000
+      internalID: -9036571817793555202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_3
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 445
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d06f69ddee8ca20800000000000000
+      internalID: 3082976580422995224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_4
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 445
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df71ac21a5e06f30800000000000000
+      internalID: 4566902502554959829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_5
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 445
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9792e2e10c28f2d0800000000000000
+      internalID: -3244795144907352166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_6
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 421
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 413e99c6077086030800000000000000
+      internalID: 3488046090838205204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_7
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 422
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a15934775cf3cda0800000000000000
+      internalID: -5925615232147172951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_8
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 424
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2be87d04718a6bc0800000000000000
+      internalID: -3789073801036633299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_9
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 424
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60bceeb9f97616eb0800000000000000
+      internalID: -4728384198548731130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_10
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 423
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72931b2cad96b3890800000000000000
+      internalID: -7477266368028395225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_11
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 421
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b74f6764cbe64f4d0800000000000000
+      internalID: -3101732488436321157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_12
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 392
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d359bf478cd061a0800000000000000
+      internalID: -6818207362122689582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_13
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 392
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ad03539bb7841c80800000000000000
+      internalID: -8352902169165099610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_14
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 366
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ff876cf439dbb70800000000000000
+      internalID: 8916444808104967967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_15
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 366
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74115aa99eec5d630800000000000000
+      internalID: 3951291750804689223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_16
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 366
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0889ebc2b403a7c0800000000000000
+      internalID: -4061397272986286068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_17
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 366
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c107da579d895bf60800000000000000
+      internalID: 8049507968744255516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_18
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 366
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dc12353c65d11ac0800000000000000
+      internalID: -3886090342718366511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 366
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00be13d01cb82a9c0800000000000000
+      internalID: -3917415064592585984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_20
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 366
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8f350b18a35f8af0800000000000000
+      internalID: -392002661085003889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_21
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 366
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88552ae442c1e5b50800000000000000
+      internalID: 6583730647525905800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_22
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 346
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d4353996d56ca40800000000000000
+      internalID: 5388096712220036459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_23
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 346
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acaa43a2d45de1e60800000000000000
+      internalID: 7935014120870685386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_24
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 326
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ffcb7f68e058a80800000000000000
+      internalID: -8465343951728214124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_25
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 326
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dbeeb7bc0dbcdcb0800000000000000
+      internalID: -4837784037382755373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_26
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 326
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 601717aa96f691470800000000000000
+      internalID: 8365840282439217414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_27
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 326
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e5f4010d51b32a20800000000000000
+      internalID: 3036465586785023457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_28
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 326
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 274cee323645987f0800000000000000
+      internalID: -609863489750645646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_29
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 326
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eefbdea47a98df30800000000000000
+      internalID: 4600596845299498722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_30
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 326
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ed5f8d9ad53bde80800000000000000
+      internalID: -8152863487361589789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_31
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 326
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c14103032026f4050800000000000000
+      internalID: 5786951807732290588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_32
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 303
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cc55f32a14aa29e0800000000000000
+      internalID: -1645322281671107391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_33
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 303
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3489661b4fa19e850800000000000000
+      internalID: 6406681583161874499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_34
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 302
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e36b8fdbb5d97250800000000000000
+      internalID: 5943016186178135015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_35
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 300
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baad21c2b3c3a7960800000000000000
+      internalID: 7600453545981303467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_36
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 301
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9022c828f306a1dc0800000000000000
+      internalID: -3667513120650419703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_37
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 298
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dfdc720fc8d41510800000000000000
+      internalID: 1519077357942267865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_38
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 270
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ed9337c30bc84c0800000000000000
+      internalID: -4283855371858485756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_39
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 246
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011c541dd2c9a2070800000000000000
+      internalID: 8082444201868247312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_40
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 246
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c139fb948c01bb0800000000000000
+      internalID: -4967250169917399970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_41
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 246
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 399d257bb34059910800000000000000
+      internalID: 1843384277003327891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_42
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 247
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 611a6a240d37d53b0800000000000000
+      internalID: -5522130229777751786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_43
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 248
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8213f37c17097c6b0800000000000000
+      internalID: -5276089620092735192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_44
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 247
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b9670251929b390800000000000000
+      internalID: -7802159708726977687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_45
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 246
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c010046343eda3810800000000000000
+      internalID: 1745952121389318412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_46
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 246
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41020f0860700750800000000000000
+      internalID: 6269134273530429775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_47
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 223
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8562be74d72507070800000000000000
+      internalID: 8102066427670505048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_48
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 225
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5899764bdd7aab70800000000000000
+      internalID: 8911073193439631453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_49
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 198
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e75fafd777fd59e40800000000000000
+      internalID: 5662677810795967870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_50
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 199
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 881a2dce36565d580800000000000000
+      internalID: -8803018416776371832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_51
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 200
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dafa40cf22cca1450800000000000000
+      internalID: 6060380699209543597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_52
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 200
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82da26e40bebb52b0800000000000000
+      internalID: -5594668447639098072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_53
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 200
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcf6beb8aecff8b60800000000000000
+      internalID: 7750691568027922381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_54
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 198
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0adf4fb1682f5bb80800000000000000
+      internalID: -8379524873844359776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_55
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 173
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 599797843c32908d0800000000000000
+      internalID: -2879731165085206123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_56
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 173
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4355cf593f4444220800000000000000
+      internalID: 2469174308689958196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_57
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 175
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c7659fa2486e170800000000000000
+      internalID: 8207392691035995141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_58
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 173
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a60dca079f83ba340800000000000000
+      internalID: 4876053665547079786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_59
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 171
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f1ccb7646fbb170800000000000000
+      internalID: 8195414729515868018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_60
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 172
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd535724ca8dba80800000000000000
+      internalID: -8449444750799184400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_61
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 144
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b2d7b9268b94940800000000000000
+      internalID: 5280954771723594501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_62
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 144
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac7d627295332850800000000000000
+      internalID: 6350978802623806638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_63
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 115
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 955314e64f306c190800000000000000
+      internalID: -7942656544464620199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_64
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 115
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d49919f372dd1fdc0800000000000000
+      internalID: -3606858665907087027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_65
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 115
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22fd4395034ec2ec0800000000000000
+      internalID: -3590243906614927582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_66
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 115
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c81ef6327cb7b9440800000000000000
+      internalID: 4943681111192494476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_67
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 115
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b4de1140581fee70800000000000000
+      internalID: 9146556101181756592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_68
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 115
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29d5c93899e730f60800000000000000
+      internalID: 7999376560943291794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_69
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 115
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 561664653b1b357c0800000000000000
+      internalID: -4083725053290192539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_70
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 115
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d490b2e75a26de0800000000000000
+      internalID: -1341327777696494323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_71
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 95
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc699c9d93f11c00800000000000000
+      internalID: 869744061321932027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_72
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 95
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155242ddfe7d6acc0800000000000000
+      internalID: -3700032618630994607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_73
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 69
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 746c6208eb35dae90800000000000000
+      internalID: -7012856967087077817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_74
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 69
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 030458142a2dac3d0800000000000000
+      internalID: -3185502192085417936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_75
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 68
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 922746fd90dcc0a30800000000000000
+      internalID: 4182943596206649897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_76
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 69
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4573f20a137b6e0800000000000000
+      internalID: -1821932960191392526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_77
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 69
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c5617e64615fd30800000000000000
+      internalID: 4464499099388238894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_78
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 69
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e22607ce54900d10800000000000000
+      internalID: 2089833361886814944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_79
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 67
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb9bb0100363f69b0800000000000000
+      internalID: -5084785874474124869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_80
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 69
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b22877808d14a4350800000000000000
+      internalID: 6001681849535398443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_81
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 69
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d529515d3eaa4abc0800000000000000
+      internalID: -3772702692320374179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_82
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 45
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a19ccdb1e77b3a740800000000000000
+      internalID: 5162171350157936922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_83
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 46
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8dbfb2f79a2b6000800000000000000
+      internalID: 30164654609120653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_84
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 47
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b7a2519c30c3d030800000000000000
+      internalID: 3518367100275173297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_85
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 47
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b39f9c83b8956e0800000000000000
+      internalID: -1848293096035894369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_86
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 0
+        width: 25
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fbfcc0c1f5aecd40800000000000000
+      internalID: 5606601043863206897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_87
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 5
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a42916851b64a62c0800000000000000
+      internalID: -4437656755314257334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_88
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 13
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 636693487ef4b25a0800000000000000
+      internalID: -6545049777678490058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_89
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 12
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9afb112e8591fc6b0800000000000000
+      internalID: -5273968769086931031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_90
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 14
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa1ea04580e2f510800000000000000
+      internalID: 1581573282080889588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_91
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 12
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ef37d7bfe462ed0800000000000000
+      internalID: -2439175306126033324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_92
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 14
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b608e9921f5af5d00800000000000000
+      internalID: 963671300484530283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_93
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 0
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a1d12e1bd096980800000000000000
+      internalID: -8545283760304874971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_94
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 16
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b8d3874347e4c960800000000000000
+      internalID: 7621470745566369970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_95
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 12
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14e7dc63ce9819fe0800000000000000
+      internalID: -1184013579397005759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_96
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 21
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37882d6d6a0c6fc90800000000000000
+      internalID: -7136304736720746381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_97
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 3
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70927adf8c5ddf00800000000000000
+      internalID: 1143171653336993914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_98
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 17
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2566ee0197ce3fa20800000000000000
+      internalID: 3095077373652919890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_99
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 0
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bcfebb8b739d9ca0800000000000000
+      internalID: -6008484169007563592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_100
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 6
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2a6d756c59c98960800000000000000
+      internalID: 7604830844468685356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_101
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 7
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda28c38aad058f30800000000000000
+      internalID: 4577079622298512091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_102
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 13
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7880a17adb6fdbe50800000000000000
+      internalID: 6826883904576292999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_103
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 6
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f7c6ffc4f1121000800000000000000
+      internalID: 5086292739540980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_104
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 5
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 343ea21d6ae060230800000000000000
+      internalID: 3604584661393269571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_105
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 9
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3997297413cc8aca0800000000000000
+      internalID: -6005325591072310893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_106
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 0
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1389372bf20cce70800000000000000
+      internalID: 9136681021746021147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_107
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 7
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7473b966537b32420800000000000000
+      internalID: 2604126449532876615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_108
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a3610d92d6f33010800000000000000
+      internalID: 1167548112856769444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_109
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 2
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d97b46a98a82e40800000000000000
+      internalID: 5631936715094990089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flipped snake_110
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 6
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab9e823d5de05b910800000000000000
+      internalID: 1852403133266323898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      flipped snake_0: -3859789448609858595
+      flipped snake_1: -1312051684438871666
+      flipped snake_10: -7477266368028395225
+      flipped snake_100: 7604830844468685356
+      flipped snake_101: 4577079622298512091
+      flipped snake_102: 6826883904576292999
+      flipped snake_103: 5086292739540980
+      flipped snake_104: 3604584661393269571
+      flipped snake_105: -6005325591072310893
+      flipped snake_106: 9136681021746021147
+      flipped snake_107: 2604126449532876615
+      flipped snake_108: 1167548112856769444
+      flipped snake_109: 5631936715094990089
+      flipped snake_11: -3101732488436321157
+      flipped snake_110: 1852403133266323898
+      flipped snake_12: -6818207362122689582
+      flipped snake_13: -8352902169165099610
+      flipped snake_14: 8916444808104967967
+      flipped snake_15: 3951291750804689223
+      flipped snake_16: -4061397272986286068
+      flipped snake_17: 8049507968744255516
+      flipped snake_18: -3886090342718366511
+      flipped snake_19: -3917415064592585984
+      flipped snake_2: -9036571817793555202
+      flipped snake_20: -392002661085003889
+      flipped snake_21: 6583730647525905800
+      flipped snake_22: 5388096712220036459
+      flipped snake_23: 7935014120870685386
+      flipped snake_24: -8465343951728214124
+      flipped snake_25: -4837784037382755373
+      flipped snake_26: 8365840282439217414
+      flipped snake_27: 3036465586785023457
+      flipped snake_28: -609863489750645646
+      flipped snake_29: 4600596845299498722
+      flipped snake_3: 3082976580422995224
+      flipped snake_30: -8152863487361589789
+      flipped snake_31: 5786951807732290588
+      flipped snake_32: -1645322281671107391
+      flipped snake_33: 6406681583161874499
+      flipped snake_34: 5943016186178135015
+      flipped snake_35: 7600453545981303467
+      flipped snake_36: -3667513120650419703
+      flipped snake_37: 1519077357942267865
+      flipped snake_38: -4283855371858485756
+      flipped snake_39: 8082444201868247312
+      flipped snake_4: 4566902502554959829
+      flipped snake_40: -4967250169917399970
+      flipped snake_41: 1843384277003327891
+      flipped snake_42: -5522130229777751786
+      flipped snake_43: -5276089620092735192
+      flipped snake_44: -7802159708726977687
+      flipped snake_45: 1745952121389318412
+      flipped snake_46: 6269134273530429775
+      flipped snake_47: 8102066427670505048
+      flipped snake_48: 8911073193439631453
+      flipped snake_49: 5662677810795967870
+      flipped snake_5: -3244795144907352166
+      flipped snake_50: -8803018416776371832
+      flipped snake_51: 6060380699209543597
+      flipped snake_52: -5594668447639098072
+      flipped snake_53: 7750691568027922381
+      flipped snake_54: -8379524873844359776
+      flipped snake_55: -2879731165085206123
+      flipped snake_56: 2469174308689958196
+      flipped snake_57: 8207392691035995141
+      flipped snake_58: 4876053665547079786
+      flipped snake_59: 8195414729515868018
+      flipped snake_6: 3488046090838205204
+      flipped snake_60: -8449444750799184400
+      flipped snake_61: 5280954771723594501
+      flipped snake_62: 6350978802623806638
+      flipped snake_63: -7942656544464620199
+      flipped snake_64: -3606858665907087027
+      flipped snake_65: -3590243906614927582
+      flipped snake_66: 4943681111192494476
+      flipped snake_67: 9146556101181756592
+      flipped snake_68: 7999376560943291794
+      flipped snake_69: -4083725053290192539
+      flipped snake_7: -5925615232147172951
+      flipped snake_70: -1341327777696494323
+      flipped snake_71: 869744061321932027
+      flipped snake_72: -3700032618630994607
+      flipped snake_73: -7012856967087077817
+      flipped snake_74: -3185502192085417936
+      flipped snake_75: 4182943596206649897
+      flipped snake_76: -1821932960191392526
+      flipped snake_77: 4464499099388238894
+      flipped snake_78: 2089833361886814944
+      flipped snake_79: -5084785874474124869
+      flipped snake_8: -3789073801036633299
+      flipped snake_80: 6001681849535398443
+      flipped snake_81: -3772702692320374179
+      flipped snake_82: 5162171350157936922
+      flipped snake_83: 30164654609120653
+      flipped snake_84: 3518367100275173297
+      flipped snake_85: -1848293096035894369
+      flipped snake_86: 5606601043863206897
+      flipped snake_87: -4437656755314257334
+      flipped snake_88: -6545049777678490058
+      flipped snake_89: -5273968769086931031
+      flipped snake_9: -4728384198548731130
+      flipped snake_90: 1581573282080889588
+      flipped snake_91: -2439175306126033324
+      flipped snake_92: 963671300484530283
+      flipped snake_93: -8545283760304874971
+      flipped snake_94: 7621470745566369970
+      flipped snake_95: -1184013579397005759
+      flipped snake_96: -7136304736720746381
+      flipped snake_97: 1143171653336993914
+      flipped snake_98: 3095077373652919890
+      flipped snake_99: -6008484169007563592
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
