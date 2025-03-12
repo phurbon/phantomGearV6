@@ -5,7 +5,10 @@ using System.Collections.Generic;
 
 public class playermovement : MonoBehaviour
 {
-   /* private Rigidbody2D _rigidBody;
+   /* 
+   // ********************* VERSION 1 **************************
+   
+   private Rigidbody2D _rigidBody;
     private Vector2 _movementInput;
     private Vector2 _smoothedMovementInput;
     private Vector2 _movementInputSmoothVelocity;
@@ -58,6 +61,9 @@ public class playermovement : MonoBehaviour
     } 
 
 */
+
+// ***************** VERSION 2 ****************
+  
     public float moveSpeed = 1f;
     public float collisionOffset = 0.05f;
     public ContactFilter2D movementFilter;
@@ -150,4 +156,7 @@ public class playermovement : MonoBehaviour
         print("Shots fired");
     }
    
+   
+
+
 }
