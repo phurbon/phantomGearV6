@@ -1,0 +1,5356 @@
+fileFormatVersion: 2
+guid: a7b10ad736983db43a6f33c01b69a5f2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1134969629341872336
+    second: SOLID SNAKE SPRITE SHEET NO RED_0
+  - first:
+      213: -3176525702315768709
+    second: SOLID SNAKE SPRITE SHEET NO RED_1
+  - first:
+      213: 6335436808244143297
+    second: SOLID SNAKE SPRITE SHEET NO RED_2
+  - first:
+      213: 2770240286637650341
+    second: SOLID SNAKE SPRITE SHEET NO RED_3
+  - first:
+      213: -47699121396926741
+    second: SOLID SNAKE SPRITE SHEET NO RED_4
+  - first:
+      213: 8349367172907256146
+    second: SOLID SNAKE SPRITE SHEET NO RED_5
+  - first:
+      213: 3038475759877092975
+    second: SOLID SNAKE SPRITE SHEET NO RED_6
+  - first:
+      213: 3278584922335757519
+    second: SOLID SNAKE SPRITE SHEET NO RED_7
+  - first:
+      213: -5113943887197652282
+    second: SOLID SNAKE SPRITE SHEET NO RED_8
+  - first:
+      213: -1234533188803061478
+    second: SOLID SNAKE SPRITE SHEET NO RED_9
+  - first:
+      213: -3319626048232042909
+    second: SOLID SNAKE SPRITE SHEET NO RED_10
+  - first:
+      213: 5996922972344427880
+    second: SOLID SNAKE SPRITE SHEET NO RED_11
+  - first:
+      213: -1045492195658245103
+    second: SOLID SNAKE SPRITE SHEET NO RED_12
+  - first:
+      213: -6111590664624579027
+    second: SOLID SNAKE SPRITE SHEET NO RED_13
+  - first:
+      213: -4009207006314923962
+    second: SOLID SNAKE SPRITE SHEET NO RED_14
+  - first:
+      213: -4872939744518792231
+    second: SOLID SNAKE SPRITE SHEET NO RED_15
+  - first:
+      213: -121267642803191131
+    second: SOLID SNAKE SPRITE SHEET NO RED_16
+  - first:
+      213: 6173858086149445533
+    second: SOLID SNAKE SPRITE SHEET NO RED_17
+  - first:
+      213: -2328942042403639961
+    second: SOLID SNAKE SPRITE SHEET NO RED_18
+  - first:
+      213: -4860132545474186166
+    second: SOLID SNAKE SPRITE SHEET NO RED_19
+  - first:
+      213: 8506552711052443931
+    second: SOLID SNAKE SPRITE SHEET NO RED_20
+  - first:
+      213: -8743896061861031322
+    second: SOLID SNAKE SPRITE SHEET NO RED_21
+  - first:
+      213: 9082325550208471975
+    second: SOLID SNAKE SPRITE SHEET NO RED_22
+  - first:
+      213: -7161258632319775512
+    second: SOLID SNAKE SPRITE SHEET NO RED_23
+  - first:
+      213: 7510859066062807479
+    second: SOLID SNAKE SPRITE SHEET NO RED_24
+  - first:
+      213: -1240659319136197277
+    second: SOLID SNAKE SPRITE SHEET NO RED_25
+  - first:
+      213: -864571577972060962
+    second: SOLID SNAKE SPRITE SHEET NO RED_26
+  - first:
+      213: 3418414311920285547
+    second: SOLID SNAKE SPRITE SHEET NO RED_27
+  - first:
+      213: -4638235060459719485
+    second: SOLID SNAKE SPRITE SHEET NO RED_28
+  - first:
+      213: -3403661886464255547
+    second: SOLID SNAKE SPRITE SHEET NO RED_29
+  - first:
+      213: 9120615699328144541
+    second: SOLID SNAKE SPRITE SHEET NO RED_30
+  - first:
+      213: -5406943115841096766
+    second: SOLID SNAKE SPRITE SHEET NO RED_31
+  - first:
+      213: -7388654661198932198
+    second: SOLID SNAKE SPRITE SHEET NO RED_32
+  - first:
+      213: 6333813043533715545
+    second: SOLID SNAKE SPRITE SHEET NO RED_33
+  - first:
+      213: 6332290096696493399
+    second: SOLID SNAKE SPRITE SHEET NO RED_34
+  - first:
+      213: -2361649343840905815
+    second: SOLID SNAKE SPRITE SHEET NO RED_35
+  - first:
+      213: 775371222932697884
+    second: SOLID SNAKE SPRITE SHEET NO RED_36
+  - first:
+      213: 1061558065627047204
+    second: SOLID SNAKE SPRITE SHEET NO RED_37
+  - first:
+      213: -8058121757856441105
+    second: SOLID SNAKE SPRITE SHEET NO RED_38
+  - first:
+      213: -1811085684428259882
+    second: SOLID SNAKE SPRITE SHEET NO RED_39
+  - first:
+      213: -6633028262018710702
+    second: SOLID SNAKE SPRITE SHEET NO RED_40
+  - first:
+      213: -3768277333021419076
+    second: SOLID SNAKE SPRITE SHEET NO RED_41
+  - first:
+      213: -2834822577460065392
+    second: SOLID SNAKE SPRITE SHEET NO RED_42
+  - first:
+      213: 6491904028271803039
+    second: SOLID SNAKE SPRITE SHEET NO RED_43
+  - first:
+      213: -7103848809001409256
+    second: SOLID SNAKE SPRITE SHEET NO RED_44
+  - first:
+      213: 8797812877904704897
+    second: SOLID SNAKE SPRITE SHEET NO RED_45
+  - first:
+      213: -6782473842531383953
+    second: SOLID SNAKE SPRITE SHEET NO RED_46
+  - first:
+      213: 7495010877785000335
+    second: SOLID SNAKE SPRITE SHEET NO RED_47
+  - first:
+      213: 2434922949313952132
+    second: SOLID SNAKE SPRITE SHEET NO RED_48
+  - first:
+      213: 904521887549656412
+    second: SOLID SNAKE SPRITE SHEET NO RED_49
+  - first:
+      213: -7185647898423951568
+    second: SOLID SNAKE SPRITE SHEET NO RED_50
+  - first:
+      213: -2170062124225054595
+    second: SOLID SNAKE SPRITE SHEET NO RED_51
+  - first:
+      213: 7802149551097206348
+    second: SOLID SNAKE SPRITE SHEET NO RED_52
+  - first:
+      213: -4810707933074247513
+    second: SOLID SNAKE SPRITE SHEET NO RED_53
+  - first:
+      213: 3585879723521846721
+    second: SOLID SNAKE SPRITE SHEET NO RED_54
+  - first:
+      213: -2892786581026324878
+    second: SOLID SNAKE SPRITE SHEET NO RED_55
+  - first:
+      213: 3976918195573665904
+    second: SOLID SNAKE SPRITE SHEET NO RED_56
+  - first:
+      213: 3667249448165619661
+    second: SOLID SNAKE SPRITE SHEET NO RED_57
+  - first:
+      213: 3238786957250458889
+    second: SOLID SNAKE SPRITE SHEET NO RED_58
+  - first:
+      213: 8138444443459249519
+    second: SOLID SNAKE SPRITE SHEET NO RED_59
+  - first:
+      213: -7930073095951072415
+    second: SOLID SNAKE SPRITE SHEET NO RED_60
+  - first:
+      213: 7335850683057229565
+    second: SOLID SNAKE SPRITE SHEET NO RED_61
+  - first:
+      213: -6239570690761481110
+    second: SOLID SNAKE SPRITE SHEET NO RED_62
+  - first:
+      213: 7500433148717604300
+    second: SOLID SNAKE SPRITE SHEET NO RED_63
+  - first:
+      213: -7439774689645284931
+    second: SOLID SNAKE SPRITE SHEET NO RED_64
+  - first:
+      213: -637374915818577769
+    second: SOLID SNAKE SPRITE SHEET NO RED_65
+  - first:
+      213: 2589814108705897524
+    second: SOLID SNAKE SPRITE SHEET NO RED_66
+  - first:
+      213: 5533238958160884494
+    second: SOLID SNAKE SPRITE SHEET NO RED_67
+  - first:
+      213: -7529178998646830933
+    second: SOLID SNAKE SPRITE SHEET NO RED_68
+  - first:
+      213: 8650265691712129272
+    second: SOLID SNAKE SPRITE SHEET NO RED_69
+  - first:
+      213: -3750109323461998280
+    second: SOLID SNAKE SPRITE SHEET NO RED_70
+  - first:
+      213: 1913881270259254430
+    second: SOLID SNAKE SPRITE SHEET NO RED_71
+  - first:
+      213: -6525121946752191257
+    second: SOLID SNAKE SPRITE SHEET NO RED_72
+  - first:
+      213: -3752448185259251045
+    second: SOLID SNAKE SPRITE SHEET NO RED_73
+  - first:
+      213: 3622767006511569463
+    second: SOLID SNAKE SPRITE SHEET NO RED_74
+  - first:
+      213: -5133186520231800022
+    second: SOLID SNAKE SPRITE SHEET NO RED_75
+  - first:
+      213: 3971757304118534203
+    second: SOLID SNAKE SPRITE SHEET NO RED_76
+  - first:
+      213: 7781749542686554577
+    second: SOLID SNAKE SPRITE SHEET NO RED_77
+  - first:
+      213: -6623488805575055675
+    second: SOLID SNAKE SPRITE SHEET NO RED_78
+  - first:
+      213: -8334122506024950567
+    second: SOLID SNAKE SPRITE SHEET NO RED_79
+  - first:
+      213: 1757091205248551868
+    second: SOLID SNAKE SPRITE SHEET NO RED_80
+  - first:
+      213: -8891301335079628675
+    second: SOLID SNAKE SPRITE SHEET NO RED_81
+  - first:
+      213: 6110877431700342257
+    second: SOLID SNAKE SPRITE SHEET NO RED_82
+  - first:
+      213: -8162871989018312047
+    second: SOLID SNAKE SPRITE SHEET NO RED_83
+  - first:
+      213: -8276280042718180085
+    second: SOLID SNAKE SPRITE SHEET NO RED_84
+  - first:
+      213: 391215576479902311
+    second: SOLID SNAKE SPRITE SHEET NO RED_85
+  - first:
+      213: -836112827890132485
+    second: SOLID SNAKE SPRITE SHEET NO RED_86
+  - first:
+      213: -6622280340003407631
+    second: SOLID SNAKE SPRITE SHEET NO RED_87
+  - first:
+      213: -1797477417694134036
+    second: SOLID SNAKE SPRITE SHEET NO RED_88
+  - first:
+      213: -1632888190450077781
+    second: SOLID SNAKE SPRITE SHEET NO RED_89
+  - first:
+      213: -8889889006086047007
+    second: SOLID SNAKE SPRITE SHEET NO RED_90
+  - first:
+      213: -433396134254903976
+    second: SOLID SNAKE SPRITE SHEET NO RED_91
+  - first:
+      213: 7570669057040137376
+    second: SOLID SNAKE SPRITE SHEET NO RED_92
+  - first:
+      213: -2897870598998944744
+    second: SOLID SNAKE SPRITE SHEET NO RED_93
+  - first:
+      213: 5851296285623128336
+    second: SOLID SNAKE SPRITE SHEET NO RED_94
+  - first:
+      213: 2627994542616570537
+    second: SOLID SNAKE SPRITE SHEET NO RED_95
+  - first:
+      213: -7130187914928769873
+    second: SOLID SNAKE SPRITE SHEET NO RED_96
+  - first:
+      213: 2479969316605108148
+    second: SOLID SNAKE SPRITE SHEET NO RED_97
+  - first:
+      213: 4686545168510812318
+    second: SOLID SNAKE SPRITE SHEET NO RED_98
+  - first:
+      213: 7474798477591662397
+    second: SOLID SNAKE SPRITE SHEET NO RED_99
+  - first:
+      213: -1018348169317637794
+    second: SOLID SNAKE SPRITE SHEET NO RED_100
+  - first:
+      213: 7262957398817771129
+    second: SOLID SNAKE SPRITE SHEET NO RED_101
+  - first:
+      213: 3934016630897318326
+    second: SOLID SNAKE SPRITE SHEET NO RED_102
+  - first:
+      213: -4478725333134392034
+    second: SOLID SNAKE SPRITE SHEET NO RED_103
+  - first:
+      213: -6957125504054367518
+    second: SOLID SNAKE SPRITE SHEET NO RED_104
+  - first:
+      213: 8224648217126383863
+    second: SOLID SNAKE SPRITE SHEET NO RED_105
+  - first:
+      213: 7480830295513491927
+    second: SOLID SNAKE SPRITE SHEET NO RED_106
+  - first:
+      213: 8297539371208251404
+    second: SOLID SNAKE SPRITE SHEET NO RED_107
+  - first:
+      213: -7239184944170189297
+    second: SOLID SNAKE SPRITE SHEET NO RED_108
+  - first:
+      213: 6423628325790971217
+    second: SOLID SNAKE SPRITE SHEET NO RED_109
+  - first:
+      213: 44813993473008187
+    second: SOLID SNAKE SPRITE SHEET NO RED_110
+  - first:
+      213: -4606074232650441825
+    second: SOLID SNAKE SPRITE SHEET NO RED_111
+  - first:
+      213: 1205058733821827851
+    second: SOLID SNAKE SPRITE SHEET NO RED_112
+  - first:
+      213: 7393905189823588662
+    second: SOLID SNAKE SPRITE SHEET NO RED_113
+  - first:
+      213: -9179793670499362165
+    second: SOLID SNAKE SPRITE SHEET NO RED_114
+  - first:
+      213: -6219612733219574563
+    second: SOLID SNAKE SPRITE SHEET NO RED_115
+  - first:
+      213: -3619319211370667532
+    second: SOLID SNAKE SPRITE SHEET NO RED_116
+  - first:
+      213: -3463486467844224874
+    second: SOLID SNAKE SPRITE SHEET NO RED_117
+  - first:
+      213: -5428598761552120675
+    second: SOLID SNAKE SPRITE SHEET NO RED_118
+  - first:
+      213: 7934357758728789661
+    second: SOLID SNAKE SPRITE SHEET NO RED_119
+  - first:
+      213: 2666552517490208826
+    second: SOLID SNAKE SPRITE SHEET NO RED_120
+  - first:
+      213: 393640778474620306
+    second: SOLID SNAKE SPRITE SHEET NO RED_121
+  - first:
+      213: 158074221587199148
+    second: SOLID SNAKE SPRITE SHEET NO RED_122
+  - first:
+      213: -7309397715953614686
+    second: SOLID SNAKE SPRITE SHEET NO RED_123
+  - first:
+      213: -1183482177546418811
+    second: SOLID SNAKE SPRITE SHEET NO RED_124
+  - first:
+      213: -4320597642525582628
+    second: SOLID SNAKE SPRITE SHEET NO RED_125
+  - first:
+      213: 4910534837733502415
+    second: SOLID SNAKE SPRITE SHEET NO RED_126
+  - first:
+      213: 7090894189758901335
+    second: SOLID SNAKE SPRITE SHEET NO RED_127
+  - first:
+      213: 6061100906688723542
+    second: SOLID SNAKE SPRITE SHEET NO RED_128
+  - first:
+      213: -7774105833428820605
+    second: SOLID SNAKE SPRITE SHEET NO RED_129
+  - first:
+      213: 2197746960502302177
+    second: SOLID SNAKE SPRITE SHEET NO RED_130
+  - first:
+      213: 1540880370308749811
+    second: SOLID SNAKE SPRITE SHEET NO RED_131
+  - first:
+      213: 7929827633411106197
+    second: SOLID SNAKE SPRITE SHEET NO RED_132
+  - first:
+      213: -350572320301862200
+    second: SOLID SNAKE SPRITE SHEET NO RED_133
+  - first:
+      213: -2045728897781666383
+    second: SOLID SNAKE SPRITE SHEET NO RED_134
+  - first:
+      213: -3660014648432230466
+    second: SOLID SNAKE SPRITE SHEET NO RED_135
+  - first:
+      213: -8111192674739439109
+    second: SOLID SNAKE SPRITE SHEET NO RED_136
+  - first:
+      213: -4829828391662780124
+    second: SOLID SNAKE SPRITE SHEET NO RED_137
+  - first:
+      213: -7978818064868912617
+    second: SOLID SNAKE SPRITE SHEET NO RED_138
+  - first:
+      213: 5104817387624884473
+    second: SOLID SNAKE SPRITE SHEET NO RED_139
+  - first:
+      213: -3183087958376042947
+    second: SOLID SNAKE SPRITE SHEET NO RED_140
+  - first:
+      213: 8347754363250242541
+    second: SOLID SNAKE SPRITE SHEET NO RED_141
+  - first:
+      213: 697915062919750549
+    second: SOLID SNAKE SPRITE SHEET NO RED_142
+  - first:
+      213: 8183221005467001561
+    second: SOLID SNAKE SPRITE SHEET NO RED_143
+  - first:
+      213: 4335842866148619327
+    second: SOLID SNAKE SPRITE SHEET NO RED_144
+  - first:
+      213: 6811078362949316306
+    second: SOLID SNAKE SPRITE SHEET NO RED_145
+  - first:
+      213: -1336762975624371933
+    second: SOLID SNAKE SPRITE SHEET NO RED_146
+  - first:
+      213: -5114628712917952970
+    second: SOLID SNAKE SPRITE SHEET NO RED_147
+  - first:
+      213: -333613756709647197
+    second: SOLID SNAKE SPRITE SHEET NO RED_148
+  - first:
+      213: -324646416916601516
+    second: SOLID SNAKE SPRITE SHEET NO RED_149
+  - first:
+      213: 8131600494949021416
+    second: SOLID SNAKE SPRITE SHEET NO RED_150
+  - first:
+      213: 8489632610817480608
+    second: SOLID SNAKE SPRITE SHEET NO RED_151
+  - first:
+      213: 6824131917252621486
+    second: SOLID SNAKE SPRITE SHEET NO RED_152
+  - first:
+      213: 8621617036526736549
+    second: SOLID SNAKE SPRITE SHEET NO RED_153
+  - first:
+      213: -2341620245749959675
+    second: SOLID SNAKE SPRITE SHEET NO RED_154
+  - first:
+      213: -8774492407202572312
+    second: SOLID SNAKE SPRITE SHEET NO RED_155
+  - first:
+      213: -9066876893695714295
+    second: SOLID SNAKE SPRITE SHEET NO RED_156
+  - first:
+      213: 2374136221487600225
+    second: SOLID SNAKE SPRITE SHEET NO RED_157
+  - first:
+      213: 7270698562961023035
+    second: SOLID SNAKE SPRITE SHEET NO RED_158
+  - first:
+      213: 5248491764520495739
+    second: SOLID SNAKE SPRITE SHEET NO RED_159
+  - first:
+      213: 1454442613611946014
+    second: SOLID SNAKE SPRITE SHEET NO RED_160
+  - first:
+      213: -5385788166816654184
+    second: SOLID SNAKE SPRITE SHEET NO RED_161
+  - first:
+      213: -32180221709617044
+    second: SOLID SNAKE SPRITE SHEET NO RED_162
+  - first:
+      213: 6320589918681978748
+    second: SOLID SNAKE SPRITE SHEET NO RED_163
+  - first:
+      213: 4936365186256577653
+    second: SOLID SNAKE SPRITE SHEET NO RED_164
+  - first:
+      213: 5937896020979589408
+    second: SOLID SNAKE SPRITE SHEET NO RED_165
+  - first:
+      213: 1745369781138751073
+    second: SOLID SNAKE SPRITE SHEET NO RED_166
+  - first:
+      213: 3451166973441806015
+    second: SOLID SNAKE SPRITE SHEET NO RED_167
+  - first:
+      213: -7131203155039811996
+    second: SOLID SNAKE SPRITE SHEET NO RED_168
+  - first:
+      213: -8255937642425278464
+    second: SOLID SNAKE SPRITE SHEET NO RED_169
+  - first:
+      213: 2815404208689953523
+    second: SOLID SNAKE SPRITE SHEET NO RED_170
+  - first:
+      213: -504488312959105306
+    second: SOLID SNAKE SPRITE SHEET NO RED_171
+  - first:
+      213: -9149829203577693070
+    second: SOLID SNAKE SPRITE SHEET NO RED_172
+  - first:
+      213: 9094952209902918684
+    second: SOLID SNAKE SPRITE SHEET NO RED_173
+  - first:
+      213: 8293440249329966658
+    second: SOLID SNAKE SPRITE SHEET NO RED_174
+  - first:
+      213: -5086021783114172246
+    second: SOLID SNAKE SPRITE SHEET NO RED_175
+  - first:
+      213: -360015653800654996
+    second: SOLID SNAKE SPRITE SHEET NO RED_176
+  - first:
+      213: -1656940622684694761
+    second: SOLID SNAKE SPRITE SHEET NO RED_177
+  - first:
+      213: -4956392771324128133
+    second: SOLID SNAKE SPRITE SHEET NO RED_178
+  - first:
+      213: -4831214257198336615
+    second: SOLID SNAKE SPRITE SHEET NO RED_179
+  - first:
+      213: -7237661363421052557
+    second: SOLID SNAKE SPRITE SHEET NO RED_180
+  - first:
+      213: -4336817313206768015
+    second: SOLID SNAKE SPRITE SHEET NO RED_181
+  - first:
+      213: 7955141880537191973
+    second: SOLID SNAKE SPRITE SHEET NO RED_182
+  - first:
+      213: 6853119456143219334
+    second: SOLID SNAKE SPRITE SHEET NO RED_183
+  - first:
+      213: -1657007317149954674
+    second: SOLID SNAKE SPRITE SHEET NO RED_184
+  - first:
+      213: 6059572599563013986
+    second: SOLID SNAKE SPRITE SHEET NO RED_185
+  - first:
+      213: -1971656158861310489
+    second: SOLID SNAKE SPRITE SHEET NO RED_186
+  - first:
+      213: -5512754672048068691
+    second: SOLID SNAKE SPRITE SHEET NO RED_187
+  - first:
+      213: -1202418775264654569
+    second: SOLID SNAKE SPRITE SHEET NO RED_188
+  - first:
+      213: 8833265518998304340
+    second: SOLID SNAKE SPRITE SHEET NO RED_189
+  - first:
+      213: -7910080679423962918
+    second: SOLID SNAKE SPRITE SHEET NO RED_190
+  - first:
+      213: -8050103259851220080
+    second: SOLID SNAKE SPRITE SHEET NO RED_191
+  - first:
+      213: 6201122796231702513
+    second: SOLID SNAKE SPRITE SHEET NO RED_192
+  - first:
+      213: -1803880841747502850
+    second: SOLID SNAKE SPRITE SHEET NO RED_193
+  - first:
+      213: -8853129665539937034
+    second: SOLID SNAKE SPRITE SHEET NO RED_194
+  - first:
+      213: -7050022790491903231
+    second: SOLID SNAKE SPRITE SHEET NO RED_195
+  - first:
+      213: -3417105951455126472
+    second: SOLID SNAKE SPRITE SHEET NO RED_196
+  - first:
+      213: 8522855767916418041
+    second: SOLID SNAKE SPRITE SHEET NO RED_197
+  - first:
+      213: -1889922176843007187
+    second: SOLID SNAKE SPRITE SHEET NO RED_198
+  - first:
+      213: -5921907738723002620
+    second: SOLID SNAKE SPRITE SHEET NO RED_199
+  - first:
+      213: -3592547371576891771
+    second: SOLID SNAKE SPRITE SHEET NO RED_200
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 837
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f883ca227cf30f0800000000000000
+      internalID: -1134969629341872336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 838
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b74029524b6bae3d0800000000000000
+      internalID: -3176525702315768709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_2
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 837
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c4a354e53efbe750800000000000000
+      internalID: 6335436808244143297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_3
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 837
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a173830dded17620800000000000000
+      internalID: 2770240286637650341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_4
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 715
+        width: 94
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be6b90dd6e9865ff0800000000000000
+      internalID: -47699121396926741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_5
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 676
+        width: 112
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 259c178f439eed370800000000000000
+      internalID: 8349367172907256146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_6
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 794
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66fb16ea95da2a20800000000000000
+      internalID: 3038475759877092975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_7
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 794
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc446cdbd9fdf7d20800000000000000
+      internalID: 3278584922335757519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_8
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 764
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cabd42212f9709b0800000000000000
+      internalID: -5113943887197652282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_9
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 764
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1996f90b9e0edee0800000000000000
+      internalID: -1234533188803061478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_10
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 764
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36eceff72b15ee1d0800000000000000
+      internalID: -3319626048232042909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_11
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 764
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86528f79ba9593350800000000000000
+      internalID: 5996922972344427880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_12
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 764
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11cd856236aad71f0800000000000000
+      internalID: -1045492195658245103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_13
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 764
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e557ecba44f2ba0800000000000000
+      internalID: -6111590664624579027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_14
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 764
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648779d287f6c58c0800000000000000
+      internalID: -4009207006314923962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_15
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 764
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db131cce17df5cb0800000000000000
+      internalID: -4872939744518792231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_16
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 738
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a287fba8bb215ef0800000000000000
+      internalID: -121267642803191131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_17
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 738
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d975c960833fda550800000000000000
+      internalID: 6173858086149445533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_18
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 710
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76dee0c3d8fedafd0800000000000000
+      internalID: -2328942042403639961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_19
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 709
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4432b133375d8cb0800000000000000
+      internalID: -4860132545474186166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_20
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 708
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b11ca6dfe985d0670800000000000000
+      internalID: 8506552711052443931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_21
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 709
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66216dfdbd077a680800000000000000
+      internalID: -8743896061861031322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_22
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 710
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a351aab7f6ea0e70800000000000000
+      internalID: 9082325550208471975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_23
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 709
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec41e347391e9c90800000000000000
+      internalID: -7161258632319775512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_24
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 708
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b122beb68eeb3860800000000000000
+      internalID: 7510859066062807479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_25
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 709
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 365eb9b2cea48cee0800000000000000
+      internalID: -1240659319136197277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_26
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 710
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edc83140bbc6004f0800000000000000
+      internalID: -864571577972060962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_27
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 578
+        width: 94
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b67be1584b5a07f20800000000000000
+      internalID: 3418414311920285547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_28
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 682
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c4398479cda1afb0800000000000000
+      internalID: -4638235060459719485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_29
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 686
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c913c13c83c3c0d0800000000000000
+      internalID: -3403661886464255547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_30
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 683
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d941e4bc7afe29e70800000000000000
+      internalID: 9120615699328144541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_31
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 684
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c33c8322eda6f4b0800000000000000
+      internalID: -5406943115841096766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_32
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 684
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a17143f7bb9367990800000000000000
+      internalID: -7388654661198932198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_33
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 681
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9581095b76936e750800000000000000
+      internalID: 6333813043533715545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_34
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 652
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75581540b40d0e750800000000000000
+      internalID: 6332290096696493399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_35
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 524
+        width: 112
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a514503f6cb93fd0800000000000000
+      internalID: -2361649343840905815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_36
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 627
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c13b6f7e40ca2ca00800000000000000
+      internalID: 775371222932697884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_37
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 626
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 425a622bf696bbe00800000000000000
+      internalID: 1061558065627047204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_38
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 625
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fecde1a74fccb2090800000000000000
+      internalID: -8058121757856441105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_39
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 625
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ddbbd16a2bbdd6e0800000000000000
+      internalID: -1811085684428259882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_40
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 627
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2538f3160ffb2f3a0800000000000000
+      internalID: -6633028262018710702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_41
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 628
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb91a161bb364bbc0800000000000000
+      internalID: -3768277333021419076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_42
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 627
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b4c35a2efa8a8d0800000000000000
+      internalID: -2834822577460065392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_43
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 627
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a71117150e71a50800000000000000
+      internalID: 6491904028271803039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_44
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 605
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 815a361652f0a6d90800000000000000
+      internalID: -7103848809001409256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_45
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 604
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 185fddb133c181a70800000000000000
+      internalID: 8797812877904704897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_46
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 575
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65c98da9ffcfd1a0800000000000000
+      internalID: -6782473842531383953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_47
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 575
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f89401edea0a30860800000000000000
+      internalID: 7495010877785000335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_48
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 575
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 489fd4985859ac120800000000000000
+      internalID: 2434922949313952132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_49
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 575
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d86f64dd18d8c00800000000000000
+      internalID: 904521887549656412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_50
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 575
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f786dbe43774c90800000000000000
+      internalID: -7185647898423951568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_51
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 576
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d783909def362e1e0800000000000000
+      internalID: -2170062124225054595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_52
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 551
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c465f9dddadc64c60800000000000000
+      internalID: 7802149551097206348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_53
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 553
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a0b4f28f9eec3db0800000000000000
+      internalID: -4810707933074247513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_54
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 554
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cdabc71c9a93c130800000000000000
+      internalID: 3585879723521846721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_55
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 554
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27eb8e26ee1cad7d0800000000000000
+      internalID: -2892786581026324878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_56
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 552
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070b4fb370ad03730800000000000000
+      internalID: 3976918195573665904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_57
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 551
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc7b8a471ffa4e230800000000000000
+      internalID: 3667249448165619661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_58
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 434
+        width: 94
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 905f41ae39b72fc20800000000000000
+      internalID: 3238786957250458889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_59
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 522
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65e3ac1a1091f070800000000000000
+      internalID: 8138444443459249519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_60
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 522
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16344f8d888b2f190800000000000000
+      internalID: -7930073095951072415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_61
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 350
+        width: 112
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfecee8445d2ec560800000000000000
+      internalID: 7335850683057229565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_62
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 496
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a642932f3879869a0800000000000000
+      internalID: -6239570690761481110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_63
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 496
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd90e2b534e61860800000000000000
+      internalID: 7500433148717604300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_64
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 496
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db130ce565c90c890800000000000000
+      internalID: -7439774689645284931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_65
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 496
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 790a3e914e69727f0800000000000000
+      internalID: -637374915818577769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_66
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 496
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43cb5bfd53ed0f320800000000000000
+      internalID: 2589814108705897524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_67
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e03388e14830acc40800000000000000
+      internalID: 5533238958160884494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_68
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 496
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8035f879bf28790800000000000000
+      internalID: -7529178998646830933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_69
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 496
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f80047c0daeb0870800000000000000
+      internalID: 8650265691712129272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_70
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 476
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 839ca22707fe4fbc0800000000000000
+      internalID: -3750109323461998280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_71
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 476
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e94831800e87f8a10800000000000000
+      internalID: 1913881270259254430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_72
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 456
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e4fab7392c1275a0800000000000000
+      internalID: -6525121946752191257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_73
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 456
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9a209fb140acebc0800000000000000
+      internalID: -3752448185259251045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_74
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 456
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a902fe567a64230800000000000000
+      internalID: 3622767006511569463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_75
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 456
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2392cf7e0243c8b0800000000000000
+      internalID: -5133186520231800022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_76
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 456
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b306c0e89348e1730800000000000000
+      internalID: 3971757304118534203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_77
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 456
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d9f3e6caf35efb60800000000000000
+      internalID: 7781749542686554577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_78
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 456
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c62ce92604a414a0800000000000000
+      internalID: -6623488805575055675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_79
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 456
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d46bc1acbf375c80800000000000000
+      internalID: -8334122506024950567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_80
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 428
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb8dc64421726810800000000000000
+      internalID: 1757091205248551868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_81
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 431
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d705f9b3b80cb9480800000000000000
+      internalID: -8891301335079628675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_82
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 430
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f54376b5a23ec450800000000000000
+      internalID: 6110877431700342257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_83
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 432
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 192c39bbc27a7be80800000000000000
+      internalID: -8162871989018312047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_84
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 433
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0dc028962fb42d80800000000000000
+      internalID: -8276280042718180085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_85
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 433
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a2faa7e70ed6500800000000000000
+      internalID: 391215576479902311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_86
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 400
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf9167d10d78564f0800000000000000
+      internalID: -836112827890132485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_87
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 296
+        width: 94
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f83b0bfd1fe814a0800000000000000
+      internalID: -6622280340003407631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_88
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 376
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce00e82efc31e07e0800000000000000
+      internalID: -1797477417694134036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_89
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 376
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bafea4a97d0d659e0800000000000000
+      internalID: -1632888190450077781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_90
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 377
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea3793bc05c0a480800000000000000
+      internalID: -8889889006086047007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_91
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 378
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d75ba13844cf9f0800000000000000
+      internalID: -433396134254903976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_92
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 377
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac3be0756b601960800000000000000
+      internalID: 7570669057040137376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_93
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 376
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8149e953b02b8c7d0800000000000000
+      internalID: -2897870598998944744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_94
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 376
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011112468faf33150800000000000000
+      internalID: 5851296285623128336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_95
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 376
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa6350ec13887420800000000000000
+      internalID: 2627994542616570537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_96
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 355
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa433e46edb7c0d90800000000000000
+      internalID: -7130187914928769873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_97
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 353
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf9d1a34fe9a6220800000000000000
+      internalID: 2479969316605108148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_98
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 328
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9009e81004f90140800000000000000
+      internalID: 4686545168510812318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_99
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 330
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f4b78bc91dbb760800000000000000
+      internalID: 7474798477591662397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_100
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 330
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5127264cb91ed1f0800000000000000
+      internalID: -1018348169317637794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_101
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 330
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e045ff5453bc460800000000000000
+      internalID: 7262957398817771129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_102
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 329
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b91d11584f689630800000000000000
+      internalID: 3934016630897318326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_103
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 328
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e154bffe90f58d1c0800000000000000
+      internalID: -4478725333134392034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_104
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 302
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea6709e633537f90800000000000000
+      internalID: -6957125504054367518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_105
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 301
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f03e583af1d32270800000000000000
+      internalID: 8224648217126383863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_106
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 303
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d9ef05c48f31d760800000000000000
+      internalID: 7480830295513491927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_107
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 305
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c089faa8818c62370800000000000000
+      internalID: 8297539371208251404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_108
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 303
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e316be5af398b90800000000000000
+      internalID: -7239184944170189297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_109
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 303
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15578efadef452950800000000000000
+      internalID: 6423628325790971217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_110
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 266
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b32ece1f6163f9000800000000000000
+      internalID: 44813993473008187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_111
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 274
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b5ac1b3efe310c0800000000000000
+      internalID: -4606074232650441825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_112
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 274
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0b9ee2a88a39b010800000000000000
+      internalID: 1205058733821827851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_113
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 189
+        width: 125
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6392a56789d6c9660800000000000000
+      internalID: 7393905189823588662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_114
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 245
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a91861b42da9080800000000000000
+      internalID: -9179793670499362165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_115
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 245
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddc63fb0c2f7fa9a0800000000000000
+      internalID: -6219612733219574563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_116
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 245
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1218d6a5895cdc0800000000000000
+      internalID: -3619319211370667532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_117
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 245
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 698c5c768693fefc0800000000000000
+      internalID: -3463486467844224874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_118
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 245
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d947f85303eb9a4b0800000000000000
+      internalID: -5428598761552120675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_119
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 245
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ed4e1f7508c1e60800000000000000
+      internalID: 7934357758728789661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_120
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 261
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a307debf26f710520800000000000000
+      internalID: 2666552517490208826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_121
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 264
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2958612d33e767500800000000000000
+      internalID: 393640778474620306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_122
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 245
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca4f9d1caa7913200800000000000000
+      internalID: 158074221587199148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_123
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 245
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a08882118dcf8a90800000000000000
+      internalID: -7309397715953614686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_124
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 211
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5850759da3d639fe0800000000000000
+      internalID: -1183482177546418811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_125
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 225
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda5fdbe5572a04c0800000000000000
+      internalID: -4320597642525582628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_126
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 225
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcd2944fa69b52440800000000000000
+      internalID: 4910534837733502415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_127
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 219
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75ce57842bae76260800000000000000
+      internalID: 7090894189758901335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_128
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 199
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65abafa592b5d1450800000000000000
+      internalID: 6061100906688723542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_129
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 199
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38dde28fee3dc1490800000000000000
+      internalID: -7774105833428820605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_130
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 197
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e52fe66737ff7e10800000000000000
+      internalID: 2197746960502302177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_131
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 199
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f910a9688e426510800000000000000
+      internalID: 1540880370308749811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_132
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 199
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 595ab83f7386c0e60800000000000000
+      internalID: 7929827633411106197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_133
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 199
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c2b2540554822bf0800000000000000
+      internalID: -350572320301862200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_134
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 198
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bde8fcf76c1c93e0800000000000000
+      internalID: -2045728897781666383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_135
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 199
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf787f9114053dc0800000000000000
+      internalID: -3660014648432230466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_136
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 199
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf9b76dbc314f6f80800000000000000
+      internalID: -8111192674739439109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_137
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 215
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42108d4daa009fcb0800000000000000
+      internalID: -4829828391662780124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_138
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 142
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712d40c5e3b854190800000000000000
+      internalID: -7978818064868912617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_139
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 177
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f86e981e54f7d640800000000000000
+      internalID: 5104817387624884473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_140
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 175
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e2c28dd5663d3d0800000000000000
+      internalID: -3183087958376042947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_141
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 193
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de37fb57d5e29d370800000000000000
+      internalID: 8347754363250242541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_142
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 177
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 593e9b05d0e7fa900800000000000000
+      internalID: 697915062919750549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_143
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d2206dd524a09170800000000000000
+      internalID: 8183221005467001561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_144
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 136
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3433be4d120c2c30800000000000000
+      internalID: 4335842866148619327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_145
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 147
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de61f83fafc58e50800000000000000
+      internalID: 6811078362949316306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_146
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 136
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 321e309f72dd27de0800000000000000
+      internalID: -1336762975624371933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_147
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 147
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6361388b8403509b0800000000000000
+      internalID: -5114628712917952970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_148
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 151
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ac432b4e04ce5bf0800000000000000
+      internalID: -333613756709647197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_149
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 142
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 455251acdcf9e7bf0800000000000000
+      internalID: -324646416916601516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_150
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 136
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e6b3dc219f39d070800000000000000
+      internalID: 8131600494949021416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_151
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 144
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a7195921eb31d570800000000000000
+      internalID: 8489632610817480608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_152
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 142
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea47f3ca2df24be50800000000000000
+      internalID: 6824131917252621486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_153
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 142
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a4d1a3f30326a770800000000000000
+      internalID: 8621617036526736549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_154
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 143
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 504f53dfac4e08fd0800000000000000
+      internalID: -2341620245749959675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_155
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 135
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e7145815adba3680800000000000000
+      internalID: -8774492407202572312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_156
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 138
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90cd119e08bfb2280800000000000000
+      internalID: -9066876893695714295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_157
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 151
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16218229050a2f020800000000000000
+      internalID: 2374136221487600225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_158
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 142
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b302c3a32d5b6e460800000000000000
+      internalID: 7270698562961023035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_159
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 142
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7aaeceb37366d840800000000000000
+      internalID: 5248491764520495739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_160
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 151
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e10e782e9d73f2410800000000000000
+      internalID: 1454442613611946014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_161
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 146
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c14698236d145b0800000000000000
+      internalID: -5385788166816654184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_162
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 144
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c687434424cad8ff0800000000000000
+      internalID: -32180221709617044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_163
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 135
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7754f90b0f37b750800000000000000
+      internalID: 6320589918681978748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_164
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 143
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574ad60abfd718440800000000000000
+      internalID: 4936365186256577653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_165
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 145
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 021a1b388f4a76250800000000000000
+      internalID: 5937896020979589408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_166
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 145
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ef97e819cc83810800000000000000
+      internalID: 1745369781138751073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_167
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 136
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe0f88c31205ef20800000000000000
+      internalID: 3451166973441806015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_168
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 137
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46605b26380e80d90800000000000000
+      internalID: -7131203155039811996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_169
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 137
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 000277fb4740d6d80800000000000000
+      internalID: -8255937642425278464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_170
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 137
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3faba1e0633521720800000000000000
+      internalID: 2815404208689953523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_171
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 139
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e68cb06d82bff8f0800000000000000
+      internalID: -504488312959105306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_172
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 136
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c914531d6450180800000000000000
+      internalID: -9149829203577693070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_173
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 136
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1cda6809d2c73e70800000000000000
+      internalID: 9094952209902918684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_174
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 137
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e5d3b57f7381370800000000000000
+      internalID: 8293440249329966658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_175
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 118
+        width: 328
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa8b4999222da69b0800000000000000
+      internalID: -5086021783114172246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_176
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 130
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c67c1a99ba7f00bf0800000000000000
+      internalID: -360015653800654996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_177
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 118
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 717d6f2584d5109e0800000000000000
+      internalID: -1656940622684694761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_178
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 118
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7459e9d80b573bb0800000000000000
+      internalID: -4956392771324128133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_179
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 115
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 995f3edda3414fcb0800000000000000
+      internalID: -4831214257198336615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_180
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 119
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37108b43659ae8b90800000000000000
+      internalID: -7237661363421052557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_181
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 95
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17eeb8e81a780d3c0800000000000000
+      internalID: -4336817313206768015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_182
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 76
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52690476467566e60800000000000000
+      internalID: 7955141880537191973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_183
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 76
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68a1cb206db2b1f50800000000000000
+      internalID: 6853119456143219334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_184
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 95
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8dcd0fcf902109e0800000000000000
+      internalID: -1657007317149954674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_185
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 74
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26fc4af9c2de71450800000000000000
+      internalID: 6059572599563013986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_186
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 76
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e54cd77b2543a4e0800000000000000
+      internalID: -1971656158861310489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_187
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 96
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da723b665d2ce73b0800000000000000
+      internalID: -5512754672048068691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_188
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 76
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b071d9e76205fe0800000000000000
+      internalID: -1202418775264654569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_189
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 74
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 456b99a5030169a70800000000000000
+      internalID: 8833265518998304340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_190
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 74
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad0114e088fb93290800000000000000
+      internalID: -7910080679423962918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_191
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 77
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b9a578cb9484090800000000000000
+      internalID: -8050103259851220080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_192
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 78
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7b7f50450de0650800000000000000
+      internalID: 6201122796231702513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_193
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 78
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef8e18a8ee357f6e0800000000000000
+      internalID: -1803880841747502850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_194
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 78
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fce40f997d532580800000000000000
+      internalID: -8853129665539937034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_195
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 89
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b625aef99492e90800000000000000
+      internalID: -7050022790491903231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_196
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 89
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83cd4a3ed300490d0800000000000000
+      internalID: -3417105951455126472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_197
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 74
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f31c863a24474670800000000000000
+      internalID: 8522855767916418041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_198
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 81
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2bb32c1bc5a5c5e0800000000000000
+      internalID: -1889922176843007187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_199
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 81
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40757c8894821dda0800000000000000
+      internalID: -5921907738723002620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOLID SNAKE SPRITE SHEET NO RED_200
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 0
+        width: 484
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 586656e1335b42ec0800000000000000
+      internalID: -3592547371576891771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e0bb5359d5288f744a376fdfbf1b4f33
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SOLID SNAKE SPRITE SHEET NO RED_0: -1134969629341872336
+      SOLID SNAKE SPRITE SHEET NO RED_1: -3176525702315768709
+      SOLID SNAKE SPRITE SHEET NO RED_10: -3319626048232042909
+      SOLID SNAKE SPRITE SHEET NO RED_100: -1018348169317637794
+      SOLID SNAKE SPRITE SHEET NO RED_101: 7262957398817771129
+      SOLID SNAKE SPRITE SHEET NO RED_102: 3934016630897318326
+      SOLID SNAKE SPRITE SHEET NO RED_103: -4478725333134392034
+      SOLID SNAKE SPRITE SHEET NO RED_104: -6957125504054367518
+      SOLID SNAKE SPRITE SHEET NO RED_105: 8224648217126383863
+      SOLID SNAKE SPRITE SHEET NO RED_106: 7480830295513491927
+      SOLID SNAKE SPRITE SHEET NO RED_107: 8297539371208251404
+      SOLID SNAKE SPRITE SHEET NO RED_108: -7239184944170189297
+      SOLID SNAKE SPRITE SHEET NO RED_109: 6423628325790971217
+      SOLID SNAKE SPRITE SHEET NO RED_11: 5996922972344427880
+      SOLID SNAKE SPRITE SHEET NO RED_110: 44813993473008187
+      SOLID SNAKE SPRITE SHEET NO RED_111: -4606074232650441825
+      SOLID SNAKE SPRITE SHEET NO RED_112: 1205058733821827851
+      SOLID SNAKE SPRITE SHEET NO RED_113: 7393905189823588662
+      SOLID SNAKE SPRITE SHEET NO RED_114: -9179793670499362165
+      SOLID SNAKE SPRITE SHEET NO RED_115: -6219612733219574563
+      SOLID SNAKE SPRITE SHEET NO RED_116: -3619319211370667532
+      SOLID SNAKE SPRITE SHEET NO RED_117: -3463486467844224874
+      SOLID SNAKE SPRITE SHEET NO RED_118: -5428598761552120675
+      SOLID SNAKE SPRITE SHEET NO RED_119: 7934357758728789661
+      SOLID SNAKE SPRITE SHEET NO RED_12: -1045492195658245103
+      SOLID SNAKE SPRITE SHEET NO RED_120: 2666552517490208826
+      SOLID SNAKE SPRITE SHEET NO RED_121: 393640778474620306
+      SOLID SNAKE SPRITE SHEET NO RED_122: 158074221587199148
+      SOLID SNAKE SPRITE SHEET NO RED_123: -7309397715953614686
+      SOLID SNAKE SPRITE SHEET NO RED_124: -1183482177546418811
+      SOLID SNAKE SPRITE SHEET NO RED_125: -4320597642525582628
+      SOLID SNAKE SPRITE SHEET NO RED_126: 4910534837733502415
+      SOLID SNAKE SPRITE SHEET NO RED_127: 7090894189758901335
+      SOLID SNAKE SPRITE SHEET NO RED_128: 6061100906688723542
+      SOLID SNAKE SPRITE SHEET NO RED_129: -7774105833428820605
+      SOLID SNAKE SPRITE SHEET NO RED_13: -6111590664624579027
+      SOLID SNAKE SPRITE SHEET NO RED_130: 2197746960502302177
+      SOLID SNAKE SPRITE SHEET NO RED_131: 1540880370308749811
+      SOLID SNAKE SPRITE SHEET NO RED_132: 7929827633411106197
+      SOLID SNAKE SPRITE SHEET NO RED_133: -350572320301862200
+      SOLID SNAKE SPRITE SHEET NO RED_134: -2045728897781666383
+      SOLID SNAKE SPRITE SHEET NO RED_135: -3660014648432230466
+      SOLID SNAKE SPRITE SHEET NO RED_136: -8111192674739439109
+      SOLID SNAKE SPRITE SHEET NO RED_137: -4829828391662780124
+      SOLID SNAKE SPRITE SHEET NO RED_138: -7978818064868912617
+      SOLID SNAKE SPRITE SHEET NO RED_139: 5104817387624884473
+      SOLID SNAKE SPRITE SHEET NO RED_14: -4009207006314923962
+      SOLID SNAKE SPRITE SHEET NO RED_140: -3183087958376042947
+      SOLID SNAKE SPRITE SHEET NO RED_141: 8347754363250242541
+      SOLID SNAKE SPRITE SHEET NO RED_142: 697915062919750549
+      SOLID SNAKE SPRITE SHEET NO RED_143: 8183221005467001561
+      SOLID SNAKE SPRITE SHEET NO RED_144: 4335842866148619327
+      SOLID SNAKE SPRITE SHEET NO RED_145: 6811078362949316306
+      SOLID SNAKE SPRITE SHEET NO RED_146: -1336762975624371933
+      SOLID SNAKE SPRITE SHEET NO RED_147: -5114628712917952970
+      SOLID SNAKE SPRITE SHEET NO RED_148: -333613756709647197
+      SOLID SNAKE SPRITE SHEET NO RED_149: -324646416916601516
+      SOLID SNAKE SPRITE SHEET NO RED_15: -4872939744518792231
+      SOLID SNAKE SPRITE SHEET NO RED_150: 8131600494949021416
+      SOLID SNAKE SPRITE SHEET NO RED_151: 8489632610817480608
+      SOLID SNAKE SPRITE SHEET NO RED_152: 6824131917252621486
+      SOLID SNAKE SPRITE SHEET NO RED_153: 8621617036526736549
+      SOLID SNAKE SPRITE SHEET NO RED_154: -2341620245749959675
+      SOLID SNAKE SPRITE SHEET NO RED_155: -8774492407202572312
+      SOLID SNAKE SPRITE SHEET NO RED_156: -9066876893695714295
+      SOLID SNAKE SPRITE SHEET NO RED_157: 2374136221487600225
+      SOLID SNAKE SPRITE SHEET NO RED_158: 7270698562961023035
+      SOLID SNAKE SPRITE SHEET NO RED_159: 5248491764520495739
+      SOLID SNAKE SPRITE SHEET NO RED_16: -121267642803191131
+      SOLID SNAKE SPRITE SHEET NO RED_160: 1454442613611946014
+      SOLID SNAKE SPRITE SHEET NO RED_161: -5385788166816654184
+      SOLID SNAKE SPRITE SHEET NO RED_162: -32180221709617044
+      SOLID SNAKE SPRITE SHEET NO RED_163: 6320589918681978748
+      SOLID SNAKE SPRITE SHEET NO RED_164: 4936365186256577653
+      SOLID SNAKE SPRITE SHEET NO RED_165: 5937896020979589408
+      SOLID SNAKE SPRITE SHEET NO RED_166: 1745369781138751073
+      SOLID SNAKE SPRITE SHEET NO RED_167: 3451166973441806015
+      SOLID SNAKE SPRITE SHEET NO RED_168: -7131203155039811996
+      SOLID SNAKE SPRITE SHEET NO RED_169: -8255937642425278464
+      SOLID SNAKE SPRITE SHEET NO RED_17: 6173858086149445533
+      SOLID SNAKE SPRITE SHEET NO RED_170: 2815404208689953523
+      SOLID SNAKE SPRITE SHEET NO RED_171: -504488312959105306
+      SOLID SNAKE SPRITE SHEET NO RED_172: -9149829203577693070
+      SOLID SNAKE SPRITE SHEET NO RED_173: 9094952209902918684
+      SOLID SNAKE SPRITE SHEET NO RED_174: 8293440249329966658
+      SOLID SNAKE SPRITE SHEET NO RED_175: -5086021783114172246
+      SOLID SNAKE SPRITE SHEET NO RED_176: -360015653800654996
+      SOLID SNAKE SPRITE SHEET NO RED_177: -1656940622684694761
+      SOLID SNAKE SPRITE SHEET NO RED_178: -4956392771324128133
+      SOLID SNAKE SPRITE SHEET NO RED_179: -4831214257198336615
+      SOLID SNAKE SPRITE SHEET NO RED_18: -2328942042403639961
+      SOLID SNAKE SPRITE SHEET NO RED_180: -7237661363421052557
+      SOLID SNAKE SPRITE SHEET NO RED_181: -4336817313206768015
+      SOLID SNAKE SPRITE SHEET NO RED_182: 7955141880537191973
+      SOLID SNAKE SPRITE SHEET NO RED_183: 6853119456143219334
+      SOLID SNAKE SPRITE SHEET NO RED_184: -1657007317149954674
+      SOLID SNAKE SPRITE SHEET NO RED_185: 6059572599563013986
+      SOLID SNAKE SPRITE SHEET NO RED_186: -1971656158861310489
+      SOLID SNAKE SPRITE SHEET NO RED_187: -5512754672048068691
+      SOLID SNAKE SPRITE SHEET NO RED_188: -1202418775264654569
+      SOLID SNAKE SPRITE SHEET NO RED_189: 8833265518998304340
+      SOLID SNAKE SPRITE SHEET NO RED_19: -4860132545474186166
+      SOLID SNAKE SPRITE SHEET NO RED_190: -7910080679423962918
+      SOLID SNAKE SPRITE SHEET NO RED_191: -8050103259851220080
+      SOLID SNAKE SPRITE SHEET NO RED_192: 6201122796231702513
+      SOLID SNAKE SPRITE SHEET NO RED_193: -1803880841747502850
+      SOLID SNAKE SPRITE SHEET NO RED_194: -8853129665539937034
+      SOLID SNAKE SPRITE SHEET NO RED_195: -7050022790491903231
+      SOLID SNAKE SPRITE SHEET NO RED_196: -3417105951455126472
+      SOLID SNAKE SPRITE SHEET NO RED_197: 8522855767916418041
+      SOLID SNAKE SPRITE SHEET NO RED_198: -1889922176843007187
+      SOLID SNAKE SPRITE SHEET NO RED_199: -5921907738723002620
+      SOLID SNAKE SPRITE SHEET NO RED_2: 6335436808244143297
+      SOLID SNAKE SPRITE SHEET NO RED_20: 8506552711052443931
+      SOLID SNAKE SPRITE SHEET NO RED_200: -3592547371576891771
+      SOLID SNAKE SPRITE SHEET NO RED_21: -8743896061861031322
+      SOLID SNAKE SPRITE SHEET NO RED_22: 9082325550208471975
+      SOLID SNAKE SPRITE SHEET NO RED_23: -7161258632319775512
+      SOLID SNAKE SPRITE SHEET NO RED_24: 7510859066062807479
+      SOLID SNAKE SPRITE SHEET NO RED_25: -1240659319136197277
+      SOLID SNAKE SPRITE SHEET NO RED_26: -864571577972060962
+      SOLID SNAKE SPRITE SHEET NO RED_27: 3418414311920285547
+      SOLID SNAKE SPRITE SHEET NO RED_28: -4638235060459719485
+      SOLID SNAKE SPRITE SHEET NO RED_29: -3403661886464255547
+      SOLID SNAKE SPRITE SHEET NO RED_3: 2770240286637650341
+      SOLID SNAKE SPRITE SHEET NO RED_30: 9120615699328144541
+      SOLID SNAKE SPRITE SHEET NO RED_31: -5406943115841096766
+      SOLID SNAKE SPRITE SHEET NO RED_32: -7388654661198932198
+      SOLID SNAKE SPRITE SHEET NO RED_33: 6333813043533715545
+      SOLID SNAKE SPRITE SHEET NO RED_34: 6332290096696493399
+      SOLID SNAKE SPRITE SHEET NO RED_35: -2361649343840905815
+      SOLID SNAKE SPRITE SHEET NO RED_36: 775371222932697884
+      SOLID SNAKE SPRITE SHEET NO RED_37: 1061558065627047204
+      SOLID SNAKE SPRITE SHEET NO RED_38: -8058121757856441105
+      SOLID SNAKE SPRITE SHEET NO RED_39: -1811085684428259882
+      SOLID SNAKE SPRITE SHEET NO RED_4: -47699121396926741
+      SOLID SNAKE SPRITE SHEET NO RED_40: -6633028262018710702
+      SOLID SNAKE SPRITE SHEET NO RED_41: -3768277333021419076
+      SOLID SNAKE SPRITE SHEET NO RED_42: -2834822577460065392
+      SOLID SNAKE SPRITE SHEET NO RED_43: 6491904028271803039
+      SOLID SNAKE SPRITE SHEET NO RED_44: -7103848809001409256
+      SOLID SNAKE SPRITE SHEET NO RED_45: 8797812877904704897
+      SOLID SNAKE SPRITE SHEET NO RED_46: -6782473842531383953
+      SOLID SNAKE SPRITE SHEET NO RED_47: 7495010877785000335
+      SOLID SNAKE SPRITE SHEET NO RED_48: 2434922949313952132
+      SOLID SNAKE SPRITE SHEET NO RED_49: 904521887549656412
+      SOLID SNAKE SPRITE SHEET NO RED_5: 8349367172907256146
+      SOLID SNAKE SPRITE SHEET NO RED_50: -7185647898423951568
+      SOLID SNAKE SPRITE SHEET NO RED_51: -2170062124225054595
+      SOLID SNAKE SPRITE SHEET NO RED_52: 7802149551097206348
+      SOLID SNAKE SPRITE SHEET NO RED_53: -4810707933074247513
+      SOLID SNAKE SPRITE SHEET NO RED_54: 3585879723521846721
+      SOLID SNAKE SPRITE SHEET NO RED_55: -2892786581026324878
+      SOLID SNAKE SPRITE SHEET NO RED_56: 3976918195573665904
+      SOLID SNAKE SPRITE SHEET NO RED_57: 3667249448165619661
+      SOLID SNAKE SPRITE SHEET NO RED_58: 3238786957250458889
+      SOLID SNAKE SPRITE SHEET NO RED_59: 8138444443459249519
+      SOLID SNAKE SPRITE SHEET NO RED_6: 3038475759877092975
+      SOLID SNAKE SPRITE SHEET NO RED_60: -7930073095951072415
+      SOLID SNAKE SPRITE SHEET NO RED_61: 7335850683057229565
+      SOLID SNAKE SPRITE SHEET NO RED_62: -6239570690761481110
+      SOLID SNAKE SPRITE SHEET NO RED_63: 7500433148717604300
+      SOLID SNAKE SPRITE SHEET NO RED_64: -7439774689645284931
+      SOLID SNAKE SPRITE SHEET NO RED_65: -637374915818577769
+      SOLID SNAKE SPRITE SHEET NO RED_66: 2589814108705897524
+      SOLID SNAKE SPRITE SHEET NO RED_67: 5533238958160884494
+      SOLID SNAKE SPRITE SHEET NO RED_68: -7529178998646830933
+      SOLID SNAKE SPRITE SHEET NO RED_69: 8650265691712129272
+      SOLID SNAKE SPRITE SHEET NO RED_7: 3278584922335757519
+      SOLID SNAKE SPRITE SHEET NO RED_70: -3750109323461998280
+      SOLID SNAKE SPRITE SHEET NO RED_71: 1913881270259254430
+      SOLID SNAKE SPRITE SHEET NO RED_72: -6525121946752191257
+      SOLID SNAKE SPRITE SHEET NO RED_73: -3752448185259251045
+      SOLID SNAKE SPRITE SHEET NO RED_74: 3622767006511569463
+      SOLID SNAKE SPRITE SHEET NO RED_75: -5133186520231800022
+      SOLID SNAKE SPRITE SHEET NO RED_76: 3971757304118534203
+      SOLID SNAKE SPRITE SHEET NO RED_77: 7781749542686554577
+      SOLID SNAKE SPRITE SHEET NO RED_78: -6623488805575055675
+      SOLID SNAKE SPRITE SHEET NO RED_79: -8334122506024950567
+      SOLID SNAKE SPRITE SHEET NO RED_8: -5113943887197652282
+      SOLID SNAKE SPRITE SHEET NO RED_80: 1757091205248551868
+      SOLID SNAKE SPRITE SHEET NO RED_81: -8891301335079628675
+      SOLID SNAKE SPRITE SHEET NO RED_82: 6110877431700342257
+      SOLID SNAKE SPRITE SHEET NO RED_83: -8162871989018312047
+      SOLID SNAKE SPRITE SHEET NO RED_84: -8276280042718180085
+      SOLID SNAKE SPRITE SHEET NO RED_85: 391215576479902311
+      SOLID SNAKE SPRITE SHEET NO RED_86: -836112827890132485
+      SOLID SNAKE SPRITE SHEET NO RED_87: -6622280340003407631
+      SOLID SNAKE SPRITE SHEET NO RED_88: -1797477417694134036
+      SOLID SNAKE SPRITE SHEET NO RED_89: -1632888190450077781
+      SOLID SNAKE SPRITE SHEET NO RED_9: -1234533188803061478
+      SOLID SNAKE SPRITE SHEET NO RED_90: -8889889006086047007
+      SOLID SNAKE SPRITE SHEET NO RED_91: -433396134254903976
+      SOLID SNAKE SPRITE SHEET NO RED_92: 7570669057040137376
+      SOLID SNAKE SPRITE SHEET NO RED_93: -2897870598998944744
+      SOLID SNAKE SPRITE SHEET NO RED_94: 5851296285623128336
+      SOLID SNAKE SPRITE SHEET NO RED_95: 2627994542616570537
+      SOLID SNAKE SPRITE SHEET NO RED_96: -7130187914928769873
+      SOLID SNAKE SPRITE SHEET NO RED_97: 2479969316605108148
+      SOLID SNAKE SPRITE SHEET NO RED_98: 4686545168510812318
+      SOLID SNAKE SPRITE SHEET NO RED_99: 7474798477591662397
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
